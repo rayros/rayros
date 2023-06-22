@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on [mamrzeczy.pl - darmowe ogłoszenia](https://mamrzeczy.pl)
 
+
+![](https://komarev.com/ghpvc/?username=rayros)
+
 <!--
 **rayros/rayros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
